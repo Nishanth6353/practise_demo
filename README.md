@@ -1,2 +1,2 @@
 # practise_demo
-this is my repository
+this is my repository(college)
